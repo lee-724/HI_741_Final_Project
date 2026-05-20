@@ -1,0 +1,3 @@
+username,role,login_time,actions_performed,login_status
+alice,clinician,2026-05-20 13:26:08,Retrieve patient; View note,Success
+carol,management,2026-05-20 13:27:21,Generate key stats; Monitor department revenue,Success

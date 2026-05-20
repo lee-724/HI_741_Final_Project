@@ -1,0 +1,8 @@
+# No additional packages required
+# All modules used are part of Python's standard library:
+	# - tkinter (UI)
+	# - csv (file I/O)
+	# - os (file paths)
+	# - random (data generation)
+	# - datetime (timestamps)
+	# - collections (defaultdict)
